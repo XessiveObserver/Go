@@ -8,3 +8,4 @@ To format a go file
 ```
 Type in terminal  go fmt name_of_your_file.go, then press Enter
 ```
+> Every file named go.mod is a go module
